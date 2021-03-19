@@ -1,39 +1,74 @@
-* **amount_tsh** - Total static head (amount water available to waterpoint)
-* **date_recorded** - The date the row was entered
-* **funder** - Who funded the well
-* **gps_height** - Altitude of the well
-* **installer** - Organization that installed the well
-* **longitude** - GPS coordinate
-* **latitude** - GPS coordinate
-* **wpt_name** - Name of the waterpoint if there is one
-* **num_private** -
-* **basin** - Geographic water basin
-* **subvillage** - Geographic location
-* **region** - Geographic location
-* **region_code** - Geographic location (coded)
-* **district_code** - Geographic location (coded)
-* **lga** - Geographic location
-* **ward** - Geographic location
-* **population** - Population around the well
-* **public_meeting** - True/False
-* **recorded_by** - Group entering this row of data
-* **scheme_management** - Who operates the waterpoint
-* **scheme_name** - Who operates the waterpoint
-* **permit** - If the waterpoint is permitted
-* **construction_year** - Year the waterpoint was constructed
-* **extraction_type** - The kind of extraction the waterpoint uses
-* **extraction_type_group** - The kind of extraction the waterpoint uses
-* **extraction_type_class** - The kind of extraction the waterpoint uses
-* **management** - How the waterpoint is managed
-* **management_group** - How the waterpoint is managed
-* **payment** - What the water costs
-* **payment_type** - What the water costs
-* **water_quality** - The quality of the water
-* **quality_group** - The quality of the water
-* **quantity** - The quantity of water
-* **quantity_group** - The quantity of water
-* **source** - The source of the water
-* **source_type** - The source of the water
-* **source_class** - The source of the water
-* **waterpoint_type** - The kind of waterpoint
-* **waterpoint_type_group** - The kind of waterpoint
+# Data Science vs. Pump It Up Competition
+
+Tanzania is the largest country in East Africa within the African Great Lakes region, with a population of 59 millions people. Like many poor nations around the world, Tanzania suffers from serious issues involving not having access to clean water. The Tanzanian Water Ministry agreed with Taarifa and they began a competition by DrivenData to solve this problem by improving clean water sources. This project involved using information given about water-points in Tanzania to predict whether or not a given water source (wells, pumps, standpipes, fountains, boreholes, etc.) was working correctly.
+
+There are 3 different datasets: training set, test set and train labels set which contains the status of wells. 
+
+* The given data included a target with three classes — ‘functioning’, ‘non-functioning’, and ‘functioning needs repair’. 
+* The train & test set contain 59400 water points data with 40 features.
+
+The idea was to build a model that could predict if a given water-point would fall into one of these three classes. 
+
+## Business Statement
+
+**Q1.** 
+
+**Q2.** 
+
+**Q3.**
+
+## The Deliverables
+
+There are 5 deliverables for this project:
+
+1. A well documented Jupyter Notebook containing any code and comments explaining it.
+
+            - Part I: EDA
+            
+            - Part IIA: Models
+            
+            - Part IIB: Models without Correcting Class Imbalance
+            
+2. An organized README.md file that describes the contents of the repository.
+
+             - README.md: describes the content and organization of content.
+             - module3_project_rubric.pdf: describes requirements for this project.
+             - Data folder: contains all provided data and all figures for visualization.
+             - Part I: Jupyter notebook
+             - Part IIA: Jupyter notebook
+             - Part IIB: Jupyter notebook
+             - Presentation pdf
+
+3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
+
+
+
+4. A Blog Post which can be found at: 
+
+
+
+5. A Video Walkthrough of my non-technical presentation, can be found at:
+
+
+
+# **Notebook Table of Contents**
+
+## PART I: EDA
+
+Data sources:
+      
+            - https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+
+![alt text](../Data/status_group_scatterplot)
+
+![alt text](../Data/status_group_countplot)
+
+## PART IIA: Modelings
+
+## PART IIA: Modelings without Correcting Class Imbalance
+
+##  Summary of Key Findings
+
+##  Summary of Actionable Insights
+
+##  Future Works

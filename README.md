@@ -65,7 +65,7 @@ Data sources:
 
 ## PART IIA: Modelings
 
-## PART IIA: Modelings without Correcting Class Imbalance
+## PART IIB: Modelings without Correcting Class Imbalance
 
 ##  Summary of Key Findings
 

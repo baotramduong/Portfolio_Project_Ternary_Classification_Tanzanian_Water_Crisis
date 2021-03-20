@@ -72,3 +72,5 @@ Data sources:
 ##  Summary of Actionable Insights
 
 ##  Future Works
+1. Try more parameters tuning with more and wider range of options
+2. Work to reduce overfit while maintaining and/or improving accuracy score

@@ -67,6 +67,8 @@ Data sources:
 
 ##  Summary of Key Findings
 
+![alt text](..main/Data/decision_tree_clf_feature_importances.png?raw=true)
+
 ##  Summary of Actionable Insights
 
 ##  Future Works

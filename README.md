@@ -59,7 +59,7 @@ Data sources:
       
             - https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
-![alt text](..main/Data/status_group_countplot.png?raw=true)
+<img src = '../main/Data/status_group_countplot.png' />
 
 ## PART IIA: Modelings
 
@@ -67,7 +67,7 @@ Data sources:
 
 ##  Summary of Key Findings
 
-![alt text](..main/Data/decision_tree_clf_feature_importances.png?raw=true)
+<img src = '../main/Data/decision_tree_clf_feature_importances.png' />
 
 ##  Summary of Actionable Insights
 

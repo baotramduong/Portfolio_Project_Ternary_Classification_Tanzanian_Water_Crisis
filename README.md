@@ -59,7 +59,7 @@ Data sources:
       
             - https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
-![alt text](..main/Data/status_group_countplot)
+![alt text](..main/Data/status_group_countplot.png?raw=true)
 
 ## PART IIA: Modelings
 

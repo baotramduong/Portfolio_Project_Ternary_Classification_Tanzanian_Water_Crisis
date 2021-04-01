@@ -1,11 +1,14 @@
 # Data Science vs. Pump It Up Competition
 
-Tanzania is the largest country in East Africa within the African Great Lakes region, with a population of 59 millions people. Like many poor nations around the world, Tanzania suffers from serious issues involving not having access to clean water. The Tanzanian Water Ministry agreed with Taarifa and they began a competition by DrivenData to solve this problem by improving clean water sources. This project involved using information given about water-points in Tanzania to predict whether or not a given water source (wells, pumps, standpipes, fountains, boreholes, etc.) was working correctly.
+Tanzania, the largest country in East Africa, is suffering from a water crisis
+* 4 million people lack access to an improved source of safe water
+* 30 million people lack access to improved sanitation
+* Water-borne illnesses, such as malaria and cholera, account for over half of the diseases affecting the population
 
-There are 3 different datasets: training set, test set and train labels set which contains the status of wells. 
-
-* The given data included a target with three classes — ‘functioning’, ‘non-functioning’, and ‘functioning needs repair’. 
-* The train & test set contain 59400 water points data with 40 features.
+Using data provided by The Tanzanian Water Ministry and Taarifa, DrivenData began a competition to solve this problem by building a classification system to predict whether a given water source is working correctly.
+* 59,400 water points
+* 40 features
+* The given data included a target with three classes — ‘functional’, ‘non-functional’, and ‘functional needs repair’. 
 
 The idea was to build a model that could predict if a given water-point would fall into one of these three classes. 
 
@@ -41,11 +44,11 @@ There are 5 deliverables for this project:
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
 
-
+https://github.com/baotramduong/Portfolio_Project_Ternary_Classification_Tanzanian_Water_Well/blob/main/Presentation.pdf
 
 4. A Blog Post which can be found at: 
 
-
+https://baotramduong.medium.com/data-science-vs-pump-it-up-competition-cccc8d58bb64
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 

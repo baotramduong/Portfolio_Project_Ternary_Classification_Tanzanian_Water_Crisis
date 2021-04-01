@@ -101,6 +101,18 @@ Data sources:
 
 <img src = '../main/Data/confusion_matrix.png' />
 
+* The highest accuracy score is 81.30%. 
+* Here we see that Train accuracy of 99.33% versus Test accuracy of 81.30% have a big discrepancy, meaning the model is highly overfit. 
+* The model does very well in classifying functional (1) as function (1) and non-functional (0) as non-functional (0). 
+* However it doesn’t do as well when classifying functional-needs-repair (2), it tends to classify it as functional (1) more than non-functional (0). Classifying functional-needs-repair as functional (1) is more costly than classifying it as non-functional (0) because repair and maintenance will be overdue, causing more damages, leads to non-functional. 
+* We can also see that here with  f1 (which is average of the  precision and recall) score are significantly lower for class 2.
+
+### Comparing with Model with SMOTE
+
+<img src = '../main/Data/confusion_matrix withSMOTE.png' />
+
+When compare the imbalanced and balanced models, we see that the Imbalanced model has a higher accuracy overall but we lower accuracy for class 2, which is only 295 correctly classified. For the Balance model, class 2 are classified correctly classified 374 times but we sacrifice accuracy overall. 
+
 ##  Summary of Actionable Insights
 1. Focus on sustainability: early preventative strategy rather than letting things go broken
 2. Decentralized management: we need to restructure authority so that there is a system of co-responsibility between the central, regional and local levels. 

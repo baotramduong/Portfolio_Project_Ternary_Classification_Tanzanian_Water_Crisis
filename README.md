@@ -107,7 +107,7 @@ Data sources:
 * However it doesn’t do as well when classifying functional-needs-repair (2), it tends to classify it as functional (1) more than non-functional (0). Classifying functional-needs-repair as functional (1) is more costly than classifying it as non-functional (0) because repair and maintenance will be overdue, causing more damages, leads to non-functional. 
 * We can also see that here with  f1 (which is average of the  precision and recall) score are significantly lower for class 2.
 
-### Comparing with Model with SMOTE
+### Compared with Grandient Boost with SMOTE
 
 <img src = '../main/Data/confusion_matrix withSMOTE.png' />
 

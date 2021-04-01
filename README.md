@@ -109,6 +109,8 @@ Data sources:
 
 ### Compared with Grandient Boost with SMOTE
 
+<img src = '../main/Data/GradientBoostingClassifier Result (withSMOTE).png' />
+
 <img src = '../main/Data/confusion_matrix withSMOTE.png' />
 
 When compare the imbalanced and balanced models, we see that the Imbalanced model has a higher accuracy overall but we lower accuracy for class 2, which is only 295 correctly classified. For the Balance model, class 2 are classified correctly classified 374 times but we sacrifice accuracy overall. 

@@ -91,7 +91,11 @@ Data sources:
 
 ##  Summary of Key Findings
 
+### Feature Importance
+
 <img src = '../main/Data/decision_tree_clf_feature_importances.png' />
+
+### Best Model: Grandient Boost (without SMOTE)
 
 <img src = '../main/Data/GradientBoostingClassifier Result.png' />
 

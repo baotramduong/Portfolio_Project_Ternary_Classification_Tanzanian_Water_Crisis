@@ -93,8 +93,19 @@ Data sources:
 
 <img src = '../main/Data/decision_tree_clf_feature_importances.png' />
 
+<img src = '../main/Data/GradientBoostingClassifier Result.png' />
+
+<img src = '../main/Data/confusion_matrix.png' />
+
 ##  Summary of Actionable Insights
+1. Focus on sustainability: early preventative strategy rather than letting things go broken
+2. Decentralized management: we need to restructure authority so that there is a system of co-responsibility between the central, regional and local levels. 
+3. Improved payment system: 
+* A local payment system should be put in place so that the user-group can be independently responsible for their own water points
+* Direct funding from international donors to village-level should also be implemented instead of having to go through the long bureaucratic process where money get lost along the way between ministry and district level.
 
 ##  Future Works
-1. Try more parameters tuning with more and wider range of options
-2. Work to reduce overfit while maintaining and/or improving accuracy score
+1. Since correcting class imbalance did not improve the model, we can try model stacking i.e build a binary classification between functional vs non-functional and another binary classification between functional vs. functional needs repair.
+2. Try more parameters tuning with more and wider range of options
+3. Work to reduce overfit while maintaining and/or improving accuracy score
+

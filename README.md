@@ -64,6 +64,10 @@ Data sources:
 
 <img src = '../main/Data/status_group_countplot.png' />
 
+### Problems
+* Sustainability: Regardless of hundreds of millions of dollars over budget and years past the original deadline of the Water Sector Development Program (WSDP), local government and communities find themselves unable to raise the money to fix and maintain their water points. 
+* Power struggle: Full responsibility for operating, maintaining and sustaining water points is done at the village level. However, disbursement of funds and report of functionality must follow a long bureaucratic process all the way from the village, to the district, and, finally, to the Ministry of Water. The problem found is not only the miscommunication but also the power struggle around roles, responsibilities, and accountability between many different levels of government.
+
 ## PART IIA: Modelings
 
 |FIELD1|Model                        |Accuracy|CV  |Precision|Recall|F1 Score|MAE |MSE |RMSE|AUC |Bias                |Variance           |

@@ -58,7 +58,7 @@ https://baotramduong.medium.com/data-science-vs-pump-it-up-competition-cccc8d58b
 
 ## PART I: EDA
 
-### Data Sources
+### Data Source
       
             - https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 

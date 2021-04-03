@@ -52,7 +52,7 @@ https://baotramduong.medium.com/data-science-vs-pump-it-up-competition-cccc8d58b
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
-
+https://youtu.be/WUxTuDQW_1M
 
 # **Notebook Table of Contents**
 

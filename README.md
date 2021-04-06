@@ -12,14 +12,6 @@ Using data provided by The Tanzanian Water Ministry and Taarifa, DrivenData bega
 
 The idea was to build a model that could predict if a given water-point would fall into one of these three classes. 
 
-## Business Statement
-
-**Q1.** 
-
-**Q2.** 
-
-**Q3.**
-
 ## The Deliverables
 
 There are 5 deliverables for this project:

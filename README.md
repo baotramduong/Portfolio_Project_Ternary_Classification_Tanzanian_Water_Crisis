@@ -128,6 +128,7 @@ When compare the imbalanced and balanced models, we see that the Imbalanced mode
 
 ## Reference
 DrivenData. (n.d.). Pump it Up: Data Mining the Water Table. Retrieved from https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+
 Jiménez, A., & Pérez-Foguet, A. (2011). The relationship between technology and functionality of rural water points: evidence from Tanzania. Water science and technology : a journal of the International Association on Water Pollution Research, 63(5), 948–955. https://doi.org/10.2166/wst.2011.274
 
 Lemmens, R., Lungo, J., Georgiadou, Y., & Verplanke, J. (2017). Monitoring Rural Water Points in Tanzania with Mobile Phones: The Evolution of the SEMA App. ISPRS International Journal of Geo-Information, 6(10), 316. doi:10.3390/ijgi6100316

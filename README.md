@@ -126,3 +126,17 @@ When compare the imbalanced and balanced models, we see that the Imbalanced mode
 2. Try more parameters tuning with more and wider range of options
 3. Work to reduce overfit while maintaining and/or improving accuracy score
 
+## Reference
+DrivenData. (n.d.). Pump it Up: Data Mining the Water Table. Retrieved from https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+Jiménez, A., & Pérez-Foguet, A. (2011). The relationship between technology and functionality of rural water points: evidence from Tanzania. Water science and technology : a journal of the International Association on Water Pollution Research, 63(5), 948–955. https://doi.org/10.2166/wst.2011.274
+
+Lemmens, R., Lungo, J., Georgiadou, Y., & Verplanke, J. (2017). Monitoring Rural Water Points in Tanzania with Mobile Phones: The Evolution of the SEMA App. ISPRS International Journal of Geo-Information, 6(10), 316. doi:10.3390/ijgi6100316
+
+Mithrakumar, M. (2019, November 12). How to tune a decision tree? Retrieved March 29, 2021, from https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680
+
+Nelson, D. (n.d.). Gradient boosting classifiers in Python with scikit-learn. Retrieved March 23, 2021, from https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/
+
+Shore, R. (n.d.). Water In Crisis — Spotlight Tanzania. The Water Project. Retrieved February 28, 2021, from https://thewaterproject.org/water-crisis/water-in-crisis-tanzania
+
+The Water Project. (n.d.). Facts and Statistics about Water and Its Effects. The Water Project. Retrieved February 28, 2021, from https://thewaterproject.org/water-scarcity/water_stats
+water.org. (n.d.). Tanzania’s Water Crisis — Tanzania’s Water In 2020. Water.Org. Retrieved February 28, 2021, from https://water.org/our-impact/where-we-work/tanzania/

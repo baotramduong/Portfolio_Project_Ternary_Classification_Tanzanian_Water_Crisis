@@ -1,5 +1,11 @@
 # Data Science vs. Pump It Up Competition
 
+## Blog
+
+[Medium Blog](https://baotramduong.medium.com/data-science-vs-pump-it-up-competition-cccc8d58bb64 'Blog')
+
+## Introduction
+
 Tanzania, the largest country in East Africa, is suffering from a water crisis
 * 4 million people lack access to an improved source of safe water
 * 30 million people lack access to improved sanitation
@@ -11,42 +17,6 @@ Using data provided by The Tanzanian Water Ministry and Taarifa, DrivenData bega
 * The given data included a target with three classes — ‘functional’, ‘non-functional’, and ‘functional needs repair’. 
 
 The idea was to build a model that could predict if a given water-point would fall into one of these three classes. 
-
-## The Deliverables
-
-There are 5 deliverables for this project:
-
-1. A well documented Jupyter Notebook containing any code and comments explaining it.
-
-            - Part I: EDA
-            
-            - Part IIA: Models
-            
-            - Part IIB: Models without Correcting Class Imbalance
-            
-2. An organized README.md file that describes the contents of the repository.
-
-             - README.md: describes the content and organization of content.
-             - module3_project_rubric.pdf: describes requirements for this project.
-             - Data folder: contains all provided data and all figures for visualization.
-             - Part I: Jupyter notebook
-             - Part IIA: Jupyter notebook
-             - Part IIB: Jupyter notebook
-             - Presentation pdf
-
-3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. Can be found in the repository or at: 
-
-https://github.com/baotramduong/Portfolio_Project_Ternary_Classification_Tanzanian_Water_Well/blob/main/Presentation.pdf
-
-4. A Blog Post which can be found at: 
-
-https://baotramduong.medium.com/data-science-vs-pump-it-up-competition-cccc8d58bb64
-
-5. A Video Walkthrough of my non-technical presentation, can be found at:
-
-https://youtu.be/WUxTuDQW_1M
-
-# **Notebook Table of Contents**
 
 ## PART I: EDA
 
